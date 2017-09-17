@@ -1,0 +1,71 @@
+* {
+ margin: 0;
+ padding: 0;
+ font-family: Times New Roman;
+ text-align: center;
+ padding-top: 20px;
+}
+
+a.fa {
+    width: 70px;
+    height: 50px;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 50%;
+    display: inline-block;
+    font-size: 25px;
+    margin: 5px;
+}
+
+a.fa.fa-pinterest {
+    background: rgba(204, 26, 34, 0.8);
+}
+
+a.fa.fa-pinterest:hover {
+    background: rgba(204, 26, 34, 1);
+}
+
+a.fa.fa-skype {
+    background: rgba(0, 176, 241, 0.8);
+}
+
+a.fa.fa-skype:hover {
+    background: rgba(0, 176, 241, 1);
+}
+
+a.fa.fa-linkedin {
+    background: rgba(0, 124, 182, 0.8);
+}
+
+a.fa.fa-linkedin:hover {
+    background: rgba(0, 124, 182, 1);
+}
+
+a.fa.fa-google {
+    background: rgba(222, 74, 55, 0.8);
+}
+
+a.fa.fa-google:hover {
+    background: rgba(222, 74, 55, 1);
+}
+
+a.fa.fa-twitter {
+    background: rgba(85, 173, 239, 0.8);
+}
+
+a.fa.fa-twitter:hover {
+    background: rgba(85, 173, 239, 1);
+}
+
+a.fa.fa-facebook {
+    background: rgba(57, 89, 153, 0.8);
+}
+
+a.fa.fa-facebook:hover {
+    background: rgba(57, 89, 153, 1);
+}
+
+h2 {
+    font-size: 40px;
+    padding: 15px 0;
+}
